@@ -1,5 +1,5 @@
-<h1 align="center"> WELY </h1>
-<h3 align="center">"moving in the dark."</h3>
+<h1 align="center"> WELY ABDURAHMAN SAID </h1>
+<h3 align="center">"Building my future one project at a time."</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;The+System+Is+Running;technological+World+Peace;Computer+And+Network+Engineering" />
@@ -18,7 +18,7 @@
   Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,git,github,python,js,html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=linux,Kali,git,github,python,js,html,css,debian" />
 </p>
 
 ---
