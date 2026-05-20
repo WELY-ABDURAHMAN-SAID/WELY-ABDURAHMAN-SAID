@@ -18,7 +18,7 @@
   Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,Kali,git,github,python,js,html,css,debian" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,github,python,js,html,css,debian" />
 </p>
 
 ---
